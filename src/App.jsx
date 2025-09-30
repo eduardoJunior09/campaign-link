@@ -1,12 +1,15 @@
-import './App.css'
+import "./App.css";
+import {Outlet } from "react-router-dom";
+import Header from "./Components/Header";
+
 
 function App() {
-
   return (
-  <div>
-    <p>Olá, mundo!</p>
-  </div>
-  )
+    <div className="flex items-center flex-col w-full">
+      <Header/>
+      <Outlet />
+    </div>
+  );
 }
 
-export default App
+export default App;

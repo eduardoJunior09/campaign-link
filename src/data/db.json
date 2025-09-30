@@ -1,0 +1,50 @@
+{
+  "campanhas": [
+    {
+      "id": 1,
+      "nome": "Campanha Black Friday",
+      "responsavel": "Eduardo Junior",
+      "link": "www.dominio.com/campanhablack",
+      "cliques": "67",
+      "whatsapps": [
+        "https://wa.me/5511999999999",
+        "https://wa.me/5511888888888"
+      ]
+    },
+    {
+      "id": 2,
+      "nome": "Campanha Natal",
+      "responsavel": "Maria Souza",
+      "link": "www.dominio.com/natal",
+      "cliques": "27",
+      "whatsapps": [
+        "https://wa.me/5511777777777",
+        "https://wa.me/5511666666666"
+      ]
+    },
+    {
+      "id": 3,
+      "nome": "Campanha Ano Novo",
+      "responsavel": "João Silva",
+      "link": "www.dominio.com/anonovo",
+      "cliques": "167",
+      "whatsapps": ["https://wa.me/5511555555555"]
+    },
+    {
+      "id": 4,
+      "nome": "Campanha Ano Novo",
+      "responsavel": "João Silva",
+      "link": "www.dominio.com/anonovo",
+      "cliques": "167",
+      "whatsapps": ["https://wa.me/5511555555555"]
+    },
+    {
+      "id": 5,
+      "nome": "Campanha Ano Novo",
+      "responsavel": "João Silva",
+      "link": "www.dominio.com/anonovo",
+      "cliques": "167",
+      "whatsapps": ["https://wa.me/5511555555555"]
+    }
+  ]
+}
